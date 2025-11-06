@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 "# catalogo-produtos" 
+"# Catalogo-Produtos" 
