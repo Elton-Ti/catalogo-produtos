@@ -1,0 +1,222 @@
+[
+  {
+    "id": "VX-1001",
+    "name": "Gol 1.0",
+    "price": 12500 ,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "available",
+    "createdAt": "2025-07-10T10:00:00Z",
+    "images": ["https://picsum.photos/seed/vx1001/800/450"],
+    "description": "Hatch, baixo consumo, completo."
+  },
+  {
+    "id": "VX-1002",
+    "name": "Hatch Sport 1.6",
+    "price": 74500,
+    "category": "Veículos",
+    "store": "Barigui Joinville",
+    "status": "unavailable",
+    "createdAt": "2025-07-18T10:00:00Z",
+    "images": ["https://picsum.photos/seed/vx1002/800/450"],
+    "description": "Compacto ágil, ideal para cidade."
+  },
+  {
+    "id": "VX-1003",
+    "name": "SUV Xtreme 3.0",
+    "price": 152000,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "available",
+    "createdAt": "2025-07-20T12:30:00Z",
+    "images": ["https://picsum.photos/seed/vx1003/800/450"],
+    "description": "SUV potente, ideal para família e aventuras."
+  },
+  {
+    "id": "VX-1004",
+    "name": "Pickup Thunder 2.2",
+    "price": 132500,
+    "category": "Veículos",
+    "store": "Barigui Joinville",
+    "status": "available",
+    "createdAt": "2025-07-22T09:00:00Z",
+    "images": ["https://picsum.photos/seed/vx1004/800/450"],
+    "description": "Pickup robusta, perfeita para trabalho e lazer."
+  },
+  {
+    "id": "VX-1005",
+    "name": "Sedan Comfort 1.8",
+    "price": 90500,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "unavailable",
+    "createdAt": "2025-07-25T11:15:00Z",
+    "images": ["https://picsum.photos/seed/vx1005/800/450"],
+    "description": "Sedan econômico, ideal para quem roda na cidade."
+  },
+  {
+    "id": "EL-2001",
+    "name": "Notebook Pro 14”",
+    "price": 6500,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "available",
+    "createdAt": "2025-08-01T15:20:00Z",
+    "images": ["https://picsum.photos/seed/el2001/800/450"],
+    "description": "Tela 14”, 16GB RAM, 512GB SSD."
+  },
+  {
+    "id": "EL-2002",
+    "name": "Smartphone Ultra X",
+    "price": 4200,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "available",
+    "createdAt": "2025-08-03T10:10:00Z",
+    "images": ["https://picsum.photos/seed/el2002/800/450"],
+    "description": "Tela AMOLED, 128GB, câmera 108MP."
+  },
+  {
+    "id": "EL-2003",
+    "name": "Tablet Max 11”",
+    "price": 3200,
+    "category": "Eletrônicos",
+    "store": "Loja Norte",
+    "status": "unavailable",
+    "createdAt": "2025-08-05T14:00:00Z",
+    "images": ["https://picsum.photos/seed/el2003/800/450"],
+    "description": "Perfeito para estudo e entretenimento, leve e potente."
+  },
+  {
+    "id": "EL-2004",
+    "name": "Fone Bluetooth X2",
+    "price": 350,
+    "category": "Eletrônicos",
+    "store": "Loja Norte",
+    "status": "available",
+    "createdAt": "2025-08-06T09:30:00Z",
+    "images": ["https://picsum.photos/seed/el2004/800/450"],
+    "description": "Fone sem fio com cancelamento de ruído."
+  },
+  {
+    "id": "EL-2005",
+    "name": "Monitor 27” 4K",
+    "price": 1800,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "available",
+    "createdAt": "2025-08-07T13:45:00Z",
+    "images": ["https://picsum.photos/seed/el2005/800/450"],
+    "description": "Excelente para trabalho e games, resolução 4K."
+  },
+  {
+    "id": "VX-1006",
+    "name": "Hatch Eco 1.0",
+    "price": 68500,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "available",
+    "createdAt": "2025-07-28T10:00:00Z",
+    "images": ["https://picsum.photos/seed/vx1006/800/450"],
+    "description": "Compacto econômico, ideal para quem roda muito na cidade."
+  },
+  {
+    "id": "VX-1007",
+    "name": "SUV Family 2.5",
+    "price": 142000,
+    "category": "Veículos",
+    "store": "Barigui Joinville",
+    "status": "unavailable",
+    "createdAt": "2025-07-30T12:15:00Z",
+    "images": ["https://picsum.photos/seed/vx1007/800/450"],
+    "description": "SUV espaçoso, confortável para toda família."
+  },
+  {
+    "id": "VX-1008",
+    "name": "Coupe Sport 2.2",
+    "price": 125000,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "available",
+    "createdAt": "2025-08-01T09:20:00Z",
+    "images": ["https://picsum.photos/seed/vx1008/800/450"],
+    "description": "Coupe elegante, desempenho esportivo."
+  },
+  {
+    "id": "EL-2006",
+    "name": "Smartwatch Series 6",
+    "price": 1200,
+    "category": "Eletrônicos",
+    "store": "Loja Norte",
+    "status": "available",
+    "createdAt": "2025-08-08T11:30:00Z",
+    "images": ["https://picsum.photos/seed/el2006/800/450"],
+    "description": "Monitore saúde e atividades com estilo."
+  },
+  {
+    "id": "EL-2007",
+    "name": "Headset Gamer X7",
+    "price": 450,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "unavailable",
+    "createdAt": "2025-08-09T14:45:00Z",
+    "images": ["https://picsum.photos/seed/el2007/800/450"],
+    "description": "Som imersivo, microfone retrátil."
+  },
+  {
+    "id": "VX-1009",
+    "name": "Pickup Strong 3.0",
+    "price": 158000,
+    "category": "Veículos",
+    "store": "Barigui Joinville",
+    "status": "available",
+    "createdAt": "2025-08-03T10:50:00Z",
+    "images": ["https://picsum.photos/seed/vx1009/800/450"],
+    "description": "Potente e resistente, perfeita para terrenos difíceis."
+  },
+  {
+    "id": "VX-1010",
+    "name": "Sedan Executive 2.0",
+    "price": 102500,
+    "category": "Veículos",
+    "store": "Barigui Curitiba",
+    "status": "available",
+    "createdAt": "2025-08-05T11:10:00Z",
+    "images": ["https://picsum.photos/seed/vx1010/800/450"],
+    "description": "Sedan elegante, confortável e tecnológico."
+  },
+  {
+    "id": "EL-2008",
+    "name": "Tablet Pro 12.9”",
+    "price": 4800,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "available",
+    "createdAt": "2025-08-10T12:00:00Z",
+    "images": ["https://picsum.photos/seed/el2008/800/450"],
+    "description": "Tablet avançado, ideal para profissionais criativos."
+  },
+  {
+    "id": "EL-2009",
+    "name": "Câmera Mirrorless M50",
+    "price": 3500,
+    "category": "Eletrônicos",
+    "store": "Loja Norte",
+    "status": "available",
+    "createdAt": "2025-08-11T09:25:00Z",
+    "images": ["https://picsum.photos/seed/el2009/800/450"],
+    "description": "Câmera compacta, fotos e vídeos de alta qualidade."
+  },
+  {
+    "id": "EL-2010",
+    "name": "Caixa de Som Bluetooth X10",
+    "price": 550,
+    "category": "Eletrônicos",
+    "store": "Loja Centro",
+    "status": "unavailable",
+    "createdAt": "2025-08-12T10:15:00Z",
+    "images": ["https://picsum.photos/seed/el2010/800/450"],
+    "description": "Som potente, resistente à água."
+  }
+]
