@@ -13,24 +13,20 @@ export function Home() {
     setProducts(productsData as Product[]);
   }, []);
 
-  // Filtra os produtos conforme o texto digitado
   const filtered = products.filter((p) =>
     p.name.toLowerCase().includes(search.toLowerCase())
   );
 
-  // Paginação
   const totalPages = Math.ceil(filtered.length / productsPerPage);
   const startIndex = (currentPage - 1) * productsPerPage;
   const currentProducts = filtered.slice(startIndex, startIndex + productsPerPage);
 
-  // Quando a busca mudar, volta para a página 1
   useEffect(() => {
     setCurrentPage(1);
   }, [search]);
 
   return (
     <main className="p-6">
-      {/* Campo de busca */}
       <div className="mb-6 max-w-md mx-auto">
         <input
           type="text"
@@ -41,20 +37,20 @@ export function Home() {
         />
       </div>
 
-      {/* Quantos resultados encontrados */}
+     
       <p className="text-center text-sm mb-4 text-gray-500 dark:text-gray-400">
         {filtered.length} resultado{filtered.length !== 1 && "s"} encontrado
         {filtered.length !== 1 && "s"}.
       </p>
 
-      {/* Lista de produtos */}
+     
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {currentProducts.map((p) => (
           <ProductCard key={p.id} product={p} />
         ))}
       </div>
 
-      {/* Paginação */}
+     
       {totalPages > 1 && (
         <div className="flex justify-center mt-6 space-x-2">
           {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
